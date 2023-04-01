@@ -12,10 +12,6 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# lock files
-pnpm-lock.yaml
-
-
 # environment variables
 .env
 .env.production
